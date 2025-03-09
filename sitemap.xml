@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/css/gradient-bg/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/css/minireset/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/css/normalize/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/css/reset/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/htaccess/force-ssl/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/htaccess/force-www/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/js/cache/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/js/year/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/github-workflow/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/gitignore/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/license/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/manifest/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/nginx-base/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/readme/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/php/error-reporting/</loc>
+		<lastmod>2025-03-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/</loc>
+		<lastmod>2025-03-09</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://snip.bdeh.art/eleventy-base-blog/tags/</loc>
+		<lastmod>2025-03-09</lastmod>
+	</url>
+</urlset>
