@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/css/gradient-bg/</loc>
+		<loc>https://snip.bdeh.art/snippets/css/gradient-bg/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/css/minireset/</loc>
+		<loc>https://snip.bdeh.art/snippets/css/minireset/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/css/normalize/</loc>
+		<loc>https://snip.bdeh.art/snippets/css/normalize/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/css/reset/</loc>
+		<loc>https://snip.bdeh.art/snippets/css/reset/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/htaccess/force-ssl/</loc>
+		<loc>https://snip.bdeh.art/snippets/htaccess/force-ssl/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/htaccess/force-www/</loc>
+		<loc>https://snip.bdeh.art/snippets/htaccess/force-www/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/js/cache/</loc>
+		<loc>https://snip.bdeh.art/snippets/js/cache/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/js/year/</loc>
+		<loc>https://snip.bdeh.art/snippets/js/year/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/github-workflow/</loc>
+		<loc>https://snip.bdeh.art/snippets/misc/github-workflow/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/gitignore/</loc>
+		<loc>https://snip.bdeh.art/snippets/misc/gitignore/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/license/</loc>
+		<loc>https://snip.bdeh.art/snippets/misc/license/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/manifest/</loc>
+		<loc>https://snip.bdeh.art/snippets/misc/manifest/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/nginx-base/</loc>
+		<loc>https://snip.bdeh.art/snippets/misc/nginx-base/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/misc/readme/</loc>
+		<loc>https://snip.bdeh.art/snippets/misc/readme/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/snippets/php/error-reporting/</loc>
+		<loc>https://snip.bdeh.art/snippets/php/error-reporting/</loc>
 		<lastmod>2025-03-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/</loc>
+		<loc>https://snip.bdeh.art/</loc>
 		<lastmod>2025-03-09</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://snip.bdeh.art/eleventy-base-blog/tags/</loc>
+		<loc>https://snip.bdeh.art/tags/</loc>
 		<lastmod>2025-03-09</lastmod>
 	</url>
 </urlset>
