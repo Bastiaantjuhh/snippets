@@ -1,8 +1,8 @@
 ---
 title: minireset.css
-date: 2025-03-08
-tags:
-  - css
+author:
+  name: Bastiaan de Hart
+  url: https://github.com/Bastiaantjuhh
 ---
 
 ```

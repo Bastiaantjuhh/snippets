@@ -1,8 +1,8 @@
 ---
 title: Error reporting
-date: 2025-03-08
-tags:
-  - php
+author:
+  name: Bastiaan de Hart
+  url: https://github.com/Bastiaantjuhh
 ---
 
 ```

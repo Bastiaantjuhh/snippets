@@ -1,8 +1,8 @@
 ---
 title: Dynamic year
-date: 2025-03-08
-tags:
-  - js
+author:
+  name: Bastiaan de Hart
+  url: https://github.com/Bastiaantjuhh
 ---
 
 ```

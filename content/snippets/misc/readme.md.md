@@ -1,8 +1,8 @@
 ---
 title: README.MD
-date: 2025-03-08
-tags:
-  - misc
+author:
+  name: Bastiaan de Hart
+  url: https://github.com/Bastiaantjuhh
 ---
 
 ```

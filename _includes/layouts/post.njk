@@ -1,19 +1,13 @@
 ---
 layout: layouts/base.njk
 ---
-<h1>{{ title }}</h1>
-
+<h1 data-pagefind-body>{{ title }}</h1>
+<p class="post-author">By: <a href="{{ author.url }}">{{ author.name }}</a></p>
 <ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
 	{%- for tag in tags | filterTagList %}
 	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
+	<li><a class="tag tag-{{ tag }}" href="{{ tagUrl }}" class="post-tag">#{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
 	{%- endfor %}
 </ul>
 
 {{ content | safe }}
-
-{%- if collections.posts %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem %}
-{%- set nextPost = collections.posts | getNextCollectionItem %}
-{%- endif %}

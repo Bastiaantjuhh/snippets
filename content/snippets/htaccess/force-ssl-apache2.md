@@ -1,8 +1,8 @@
 ---
 title: Force SSL (Apache2)
-date: 2025-03-08
-tags:
-  - htaccess
+author:
+  name: Bastiaan de Hart
+  url: https://github.com/Bastiaantjuhh
 ---
 
 ```

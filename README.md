@@ -3,6 +3,22 @@
 My personal snippet collection.
 Public: [snip.bdeh.art](https://snip.bdeh.art)
 
+## Add a new snippet
+
+In the ```/content/snippets/``` directory make a new file within the correct code language.
+
+File example
+```
+---
+title: Title
+author:
+  name: John Doe
+  url: https://johndoe.com/
+---
+
+Code here, inside markdown code format
+```
+
 ## Repository summary
 
 Description | Status
