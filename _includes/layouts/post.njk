@@ -5,7 +5,7 @@ layout: layouts/base.njk
 <p class="post-author">By: <a href="{{ author.url }}">{{ author.name }}</a></p>
 <ul class="post-metadata">
 	{%- for tag in tags | filterTagList %}
-	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+	{%- set tagUrl %}/tags/{{ tag | slugify }}.html{% endset %}
 	<li><a class="tag tag-{{ tag }}" href="{{ tagUrl }}" class="post-tag">#{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
 	{%- endfor %}
 </ul>
